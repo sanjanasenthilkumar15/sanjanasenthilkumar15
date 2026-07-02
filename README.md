@@ -27,6 +27,7 @@ sanjana = {
     "college"  : "RMK Engineering College · B.Tech CS",
     "currently": "Backend DevOps @ Infosys Springboard",
     "proudest" : "KPIT Sparkle National Finalist 🏆",
+    "finalist" : "Stathon 2026 Finalist. Top 5 teams",
     "building" : ["AI simulations", "full-stack apps", "startup ideas"],
     "looking"  : "Frontend / Full-stack internships 🚀"
 }
